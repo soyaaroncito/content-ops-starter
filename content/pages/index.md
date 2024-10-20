@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Únete a esta comunidad para edificación.
+    subtitle: Únete a esta comunidad para edificación
     items:
       - type: FeaturedItem
         title: 500k
