@@ -716,6 +716,6 @@ seo:
   metaDescription: ''
   socialImage: /images/hero3.svg
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
 type: PageLayout
 ---
