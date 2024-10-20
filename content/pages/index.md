@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Desayuno Espiritual
-        subtitle: Numbers Done
+        subtitle: Facebook
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
