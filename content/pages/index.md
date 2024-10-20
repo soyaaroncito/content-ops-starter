@@ -13,7 +13,7 @@ sections:
       aquellas personas que desean profundizar su fe y anhelan fortalecer su
       relación con Dios.
     actions:
-      - label: Get started
+      - label: Comprar ahora
         altText: ''
         url: /
         showIcon: false
