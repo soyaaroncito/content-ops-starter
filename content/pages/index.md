@@ -712,9 +712,10 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Inicio - Maná del Día
+  metaDescription: ''
+  socialImage: /images/hero3.svg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
