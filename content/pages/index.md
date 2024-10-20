@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Únete a esta comunidad
+    subtitle: La palabra de DIOS para todos
     items:
       - type: FeaturedItem
         title: 500k
