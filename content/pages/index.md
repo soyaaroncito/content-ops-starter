@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: COMPRA AHORA
+      label: COMPRAr AHORA
       color: text-primary
       type: Badge
     elementId: ''
