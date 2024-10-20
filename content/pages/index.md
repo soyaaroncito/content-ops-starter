@@ -116,10 +116,9 @@ sections:
         type: FeaturedItem
       - title: Cita de la semana
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          #### **¡Próximamente!**
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
