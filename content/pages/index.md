@@ -91,7 +91,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Cápsulas de audio
-        subtitle: The Job Stuff
+        subtitle: 'Por: Siempre Habrá un Nuevo Amanecer'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
