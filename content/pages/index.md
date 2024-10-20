@@ -115,7 +115,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Cita de la semana
-        subtitle: Faster
+        subtitle: Blog
         text: |+
           #### **¡Próximamente!**
 
