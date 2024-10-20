@@ -11,12 +11,7 @@ sections:
     text: >
       Este libro ha sido cuidadosamente creado con un enfoque especial en todas
       aquellas personas que desean profundizar su fe y anhelan fortalecer su
-      relación con Dios. Está diseñado para quienes buscan acercarse a Él de una
-      manera más íntima, descubriendo nuevas formas de conectar con su amor y
-      comprendiendo los principios espirituales que guían nuestras vidas. A
-      través de sus páginas, esperamos que encuentres inspiración, consuelo y
-      una mayor comprensión de lo que significa caminar en una relación cercana
-      y significativa con Dios.
+      relación con Dios.
     actions:
       - label: Get started
         altText: ''
