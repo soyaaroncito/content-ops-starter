@@ -93,7 +93,7 @@ sections:
       - title: Cápsulas de audio
         subtitle: 'Por: Siempre Habrá un Nuevo Amanecer'
         text: |+
-          ## **¡Proximamente!**
+          #### **¡Proximamente!**
 
         image:
           url: /images/icon2.svg
