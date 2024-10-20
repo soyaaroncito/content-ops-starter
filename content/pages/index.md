@@ -64,10 +64,11 @@ sections:
       - type: FeaturedItem
         title: Desayuno Espiritual
         subtitle: Facebook
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Imágenes con versículos para reflexionar cada día acerca de nuestra
+          relación con Dios y con el mundo, acerca de cómo debemos vivir en
+          Cristo y para Cristo.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
