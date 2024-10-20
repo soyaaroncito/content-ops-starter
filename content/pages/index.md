@@ -62,7 +62,7 @@ sections:
     subtitle: La palabra de Dios para todos
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Página de Facebook
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
