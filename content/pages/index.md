@@ -714,7 +714,7 @@ sections:
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/Sin título-1.svg
+  socialImage: /images/hero3.svg
   type: Seo
 type: PageLayout
 ---
