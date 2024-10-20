@@ -713,7 +713,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Inicio - Maná del Día
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/hero3.svg
   type: Seo
 type: PageLayout
