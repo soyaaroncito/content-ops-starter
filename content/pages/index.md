@@ -204,7 +204,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Trivias cristianas
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
