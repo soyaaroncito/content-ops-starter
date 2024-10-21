@@ -213,7 +213,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'https://www.facebook.com/share/v/nxtYxfuJdFP52pLc/'
+      url: ''
       autoplay: true
       loop: true
       muted: true
