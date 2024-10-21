@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Todos nuestros programas
+      text: Nuestros programas
       color: text-dark
       styles:
         self:
