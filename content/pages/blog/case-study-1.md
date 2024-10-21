@@ -1,7 +1,7 @@
 ---
 title: Trivias inetarctivas
 slug: case-study-1
-date: '2022-03-06'
+date: '2022-04-06'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
