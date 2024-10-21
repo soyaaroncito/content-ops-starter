@@ -198,7 +198,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Nuevos videos interactivos
       color: text-dark
       styles:
         self:
