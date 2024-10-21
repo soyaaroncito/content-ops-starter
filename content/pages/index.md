@@ -205,8 +205,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Trivias cristianas
-    text: |
-      HOLI
+    text: >+
+      Prueba tu conocimiento bíblico con estas trivias interesantes que te
+      ayudan a aprender nuevas cosas acerca de la biblia por si no sabes alguna
+      respuesta.
+
     actions: []
     media:
       title: Title of the video
