@@ -1,15 +1,15 @@
 {
     "logo": {
-        "url": "public/images/favicon.svg",
-        "altText": "Maná del Día Logo",
-        "type": "ImageBlock"
+        "altText": "Logo light",
+        "type": "ImageBlock",
+        "url": "/images/MANADELDIA MARGINS LOGO.png"
     },
-    "text": "A description of your brand",
+    "text": "",
     "primaryLinks": {
         "title": "Product",
         "links": [
             {
-                "label": "Features",
+                "label": "LABEL",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -104,6 +104,6 @@
         }
     ],
     "copyrightText": "",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer"
 }
