@@ -93,10 +93,10 @@ sections:
           - pb-16
           - pr-16
         margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
+          - mt-16
+          - ml-16
+          - mb-16
+          - mr-16
       subtitle:
         textAlign: right
     type: GenericSection
