@@ -1,14 +1,14 @@
 ---
-title: Case study 1
+title: Trivias inetarctivas
 slug: case-study-1
-date: '2022-01-05'
+date: '2022-04-06'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/Captura de pantalla 2024-10-20 215546.png
   altText: Case study 1
   styles:
     self:
