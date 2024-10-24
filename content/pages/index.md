@@ -88,10 +88,10 @@ sections:
         justifyContent: center
         flexDirection: col
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         margin:
           - mt-0
           - ml-0
