@@ -178,7 +178,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Social Media Management
+      text: ¡No te pierdas de nada!
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
