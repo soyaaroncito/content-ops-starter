@@ -181,7 +181,7 @@ sections:
       text: ¡No te pierdas de nada!
       color: text-dark
       type: TitleBlock
-    subtitle: Activa las notificaciones de Facebook para no perderte de nada.
+    subtitle: Activa las notificaciones en Facebook para no perderte de nada
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
