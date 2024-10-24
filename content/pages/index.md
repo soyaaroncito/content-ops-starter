@@ -80,7 +80,7 @@ sections:
       self:
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: col
         padding:
           - pt-16
           - pl-16
