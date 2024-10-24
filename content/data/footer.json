@@ -1,7 +1,8 @@
 {
     "logo": {
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Sin título-1.svg"
     },
     "text": "A description of your brand",
     "primaryLinks": {
