@@ -88,6 +88,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
     type: GenericSection
   - type: FeaturedItemsSection
     title:
