@@ -65,6 +65,9 @@ sections:
       text: Todo lo puedo en CRISTO que me fortalece.
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: 'Filipenses 4:13'
     text: ''
     actions: []
