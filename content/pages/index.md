@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/Captura de pantalla 2024-10-24 134352.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
