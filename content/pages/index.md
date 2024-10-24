@@ -87,7 +87,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: flex-end
+        alignItems: center
     type: GenericSection
   - type: FeaturedItemsSection
     title:
