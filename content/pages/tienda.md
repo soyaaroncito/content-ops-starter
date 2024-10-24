@@ -37,7 +37,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Maná del Día: Devocional'
-        subtitle: $ 44.99 – $ 90
+        subtitle: Pasta dura
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
