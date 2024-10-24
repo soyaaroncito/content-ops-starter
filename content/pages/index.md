@@ -78,6 +78,9 @@ sections:
       label: NUESTRO LEMA
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
