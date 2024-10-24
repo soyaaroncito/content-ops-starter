@@ -67,13 +67,7 @@ sections:
       type: TitleBlock
     subtitle: 'Filipenses 4:13'
     text: ''
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       altText: Fun feature preview
       type: ImageBlock
