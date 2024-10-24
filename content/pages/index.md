@@ -81,7 +81,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: RECORDATORIO
+      label: NUESTRO LEMA
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
