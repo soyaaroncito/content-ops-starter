@@ -182,9 +182,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Activa las notificaciones en Facebook para no perderte de nada
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      No te pierdas de los anuncios, giveways y notificaciones que **Maná del
+      Día** tiene para ti.
+
     actions:
       - label: Get started
         url: /
