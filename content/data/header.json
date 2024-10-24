@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Tienda",
-            "url": "/pricing",
+            "url": "/tienda",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
