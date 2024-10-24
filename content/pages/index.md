@@ -98,7 +98,7 @@ sections:
           - mb-16
           - mr-16
       subtitle:
-        textAlign: justify
+        textAlign: right
     type: GenericSection
   - type: FeaturedItemsSection
     title:
