@@ -40,7 +40,7 @@ sections:
         subtitle: Pasta dura
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Sin título-1.svg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
