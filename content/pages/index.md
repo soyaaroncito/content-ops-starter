@@ -65,7 +65,7 @@ sections:
       text: Todo lo puedo en CRISTO que me fortalece.
       color: text-dark
       type: TitleBlock
-    subtitle: Activa las notificaciones en Facebook para no perderte de nada
+    subtitle: 'Filipenses 4:13'
     text: >+
       No te pierdas de los anuncios, giveways y notificaciones que **Maná del
       Día** tiene para ti.
