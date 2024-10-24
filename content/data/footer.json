@@ -1,7 +1,7 @@
 {
     "logo": {
-        "url": "/images/favicon.svg",
-        "altText": "Logo light",
+        "url": "public/images/favicon.svg",
+        "altText": "Maná del Día Logo",
         "type": "ImageBlock"
     },
     "text": "A description of your brand",
