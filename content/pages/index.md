@@ -80,7 +80,7 @@ sections:
       self:
         alignItems: center
         justifyContent: center
-        flexDirection: col
+        flexDirection: col-reverse
     type: GenericSection
   - type: FeaturedItemsSection
     title:
