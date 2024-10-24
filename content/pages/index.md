@@ -66,10 +66,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Filipenses 4:13'
-    text: >+
-      No te pierdas de los anuncios, giveways y notificaciones que **Maná del
-      Día** tiene para ti.
-
+    text: ''
     actions:
       - label: Get started
         url: /
