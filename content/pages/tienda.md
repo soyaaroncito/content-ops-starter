@@ -2,7 +2,7 @@
 type: PageLayout
 title: Tienda
 sections: []
-slug: tiena
+slug: tienda
 isDraft: false
 seo:
   type: Seo
