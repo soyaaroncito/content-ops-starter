@@ -198,7 +198,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: RECORDATORIO
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
