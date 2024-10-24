@@ -16,7 +16,7 @@ sections:
         subtitle: Pasta blanda
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Sin título-1.svg
           altText: Faux Fur Throw
           elementId: ''
           styles:
