@@ -61,6 +61,35 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title:
+      text: ¡No te pierdas de nada!
+      color: text-dark
+      type: TitleBlock
+    subtitle: Activa las notificaciones en Facebook para no perderte de nada
+    text: >+
+      No te pierdas de los anuncios, giveways y notificaciones que **Maná del
+      Día** tiene para ti.
+
+    actions:
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+    media:
+      url: /images/hero2.svg
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: RECORDATORIO
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Nuestros programas
@@ -177,35 +206,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: ¡No te pierdas de nada!
-      color: text-dark
-      type: TitleBlock
-    subtitle: Activa las notificaciones en Facebook para no perderte de nada
-    text: >+
-      No te pierdas de los anuncios, giveways y notificaciones que **Maná del
-      Día** tiene para ti.
-
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: RECORDATORIO
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
