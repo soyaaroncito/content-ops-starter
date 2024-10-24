@@ -81,6 +81,11 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
     type: GenericSection
   - type: FeaturedItemsSection
     title:
