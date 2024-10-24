@@ -79,7 +79,7 @@ sections:
     styles:
       self:
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-end
         flexDirection: col
     type: GenericSection
   - type: FeaturedItemsSection
