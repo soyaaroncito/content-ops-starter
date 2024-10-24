@@ -248,6 +248,7 @@ sections:
           placeholder: 'Recomendaciones, sugerencias, dudas, etc.'
           width: full
           type: TextareaFormControl
+          isRequired: true
       elementId: contact-form
       styles:
         self:
