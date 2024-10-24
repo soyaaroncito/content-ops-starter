@@ -245,7 +245,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: 'Recomendaciones, sugerencias, dudas, etc.'
           width: full
           type: TextareaFormControl
       elementId: contact-form
