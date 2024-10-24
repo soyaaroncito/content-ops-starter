@@ -62,7 +62,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: To
+      text: Todo lo puedo en CRISTO que me fortalece.
       color: text-dark
       type: TitleBlock
     subtitle: Activa las notificaciones en Facebook para no perderte de nada
