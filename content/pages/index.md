@@ -86,6 +86,11 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        margin:
+          - mt-16
+          - ml-16
+          - mb-16
+          - mr-16
     type: GenericSection
   - type: FeaturedItemsSection
     title:
