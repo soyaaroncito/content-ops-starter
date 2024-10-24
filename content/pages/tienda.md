@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Maná del Día: Devocional'
-        subtitle: $ 88 – $ 176
+        subtitle: Pasta blanda
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
