@@ -62,7 +62,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: ¡No te pierdas de nada!
+      text: To
       color: text-dark
       type: TitleBlock
     subtitle: Activa las notificaciones en Facebook para no perderte de nada
