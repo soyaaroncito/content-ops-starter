@@ -36,7 +36,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: 'Maná del Día: Devocional'
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
