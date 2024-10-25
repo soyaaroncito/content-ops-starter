@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: ¡Ahora disponible en Amazon!
     text: >
       Este libro ha sido cuidadosamente creado con un enfoque especial en todas
