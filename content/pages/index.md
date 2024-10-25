@@ -21,7 +21,7 @@ sections:
       - label: Comprar ahora
         altText: ''
         url: >-
-          https://www.amazon.com.mx/Man%C3%A1-del-D%C3%ADa-Devocional-Spanish/dp/B0DK42KD32/ref=sr_1_1?crid=8FEICOOWUI1O&dib=eyJ2IjoiMSJ9.aRIbv3qLhAfedCt4bM9xXKxlFyJFDJvimEdGZeJTt-wyEdJxDM4imO8--MDDaQs5oJ076kIj2ZkpexS9RrzQASHAoESAmMiPQePxdqUBIvMnhsWyNVgOgvyDc2XjIoNj5jiOjqW1CzXx7avJ0qmzlB0uExSBd-iHMDIRFa1XtcBf69AnlNN7y2CKrt7MxFfXPRugqI9tqreGCzI5HYmMS-9PYc7mhCQRayd6oG0vnPF_Fv3e6xEhAoL5vWL4hN6v8Yfasz5Oal0EgZOxlVPj2FFeQLniXwUsqZjofdLLM_I.7iRWKe-I2KDbjvp6APypNRx7JHN2d2V_IJuxQVzOcis&dib_tag=se&keywords=man%C3%A1+del+d%C3%ADa&qid=1729819491&sprefix=%2Caps%2C191&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b
+          https://www.amazon.com.mx/Man%C3%A1-del-D%C3%ADa-https://www.amazon.com.mx/Man%C3%A1-del-D%C3%ADa-Devocional-Spanish/dp/B0DK42KD32/
         showIcon: false
         icon: arrowRight
         iconPosition: right
