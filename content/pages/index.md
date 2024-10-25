@@ -157,7 +157,7 @@ sections:
           type: ImageBlock
           altText: ''
           elementId: ''
-          url: /images/blacklogo-01.svg
+          url: <a href="https://www.flaticon.es/iconos-gratis/podcast" title="podcast iconos">Podcast iconos creados por Hilmy Abiyyu A. - Flaticon</a>
           styles:
             self:
               borderRadius: x-large
