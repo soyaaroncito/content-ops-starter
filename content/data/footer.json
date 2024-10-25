@@ -61,7 +61,7 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
+            "altText": "Facebook",
             "url": "https://github.com/netlify",
             "icon": "facebook",
             "type": "Social"
