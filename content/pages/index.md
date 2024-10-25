@@ -167,7 +167,7 @@ sections:
           #### **¡Próximamente!**
 
         image:
-          url: /images/icon2.svg
+          url: /images/podcast.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
