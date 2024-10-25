@@ -39,6 +39,9 @@ sections:
       label: COMPRAr AHORA
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: center
     elementId: ''
     colors: bg-light-fg-dark
     styles:
