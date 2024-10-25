@@ -18,15 +18,6 @@ sections:
       su fe y anhelan fortalecer su relación con Dios.</div>
 
     actions:
-      - label: Enséñame como
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - label: Comprar ahora
         altText: ''
         url: /
@@ -36,6 +27,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - label: Enséñame como
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
