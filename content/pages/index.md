@@ -7,11 +7,16 @@ sections:
       text: 'Maná del Día: Devocional'
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
     subtitle: ¡Ahora disponible en Amazon!
-    text: >
-      Este libro ha sido cuidadosamente creado con un enfoque especial en todas
-      aquellas personas que desean profundizar su fe y anhelan fortalecer su
-      relación con Dios.
+    text: >+
+      <div style="text-align: center">Este libro ha sido cuidadosamente creado
+      con un enfoque especial en todas aquellas personas que desean profundizar
+      su fe y anhelan fortalecer su relación con Dios.</div>
+
     actions:
       - label: Comprar ahora
         altText: ''
@@ -32,7 +37,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Captura de pantalla 2024-10-24 134352.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -40,6 +44,9 @@ sections:
       label: COMPRAr AHORA
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: center
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -51,6 +58,10 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 500
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -144,7 +155,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
           url: /images/blacklogo-01.svg
           styles:

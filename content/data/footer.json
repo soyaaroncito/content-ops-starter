@@ -2,7 +2,7 @@
     "logo": {
         "altText": "Logo light",
         "type": "ImageBlock",
-        "url": "/images/MANADELDIA MARGINS LOGO.png"
+        "url": "/images/MANADELDIA MARGINS LOGO COPI.png"
     },
     "text": "",
     "primaryLinks": {
@@ -61,26 +61,14 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
+            "altText": "Facebook",
             "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "icon": "facebook",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:marcas.manadeldia@gmail.com?subject=Dudas%20y%20Sugerencias%20-%20Maná%20del%20Día&body=Hola,%0D%0A%0D%0AQuisiera hacer algunas consultas y sugerencias respecto a los productos y servicios de Maná del Día.%0D%0A%0D%0AMe gustaría saber más sobre:%0D%0A1. ________________%0D%0A2. ________________%0D%0A%0D%0A¡Gracias por tu atención!%0D%0A%0D%0ASaludos,%0D%0A[Tu Nombre]\"",
             "icon": "mail",
             "type": "Social"
         }
@@ -105,5 +93,6 @@
     ],
     "copyrightText": "",
     "colors": "bg-neutral-fg-dark",
-    "type": "Footer"
+    "type": "Footer",
+    "title": ""
 }
