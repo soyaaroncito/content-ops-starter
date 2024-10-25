@@ -144,7 +144,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
           url: /images/blacklogo-01.svg
           styles:
