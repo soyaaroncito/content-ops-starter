@@ -7,6 +7,9 @@ sections:
       text: 'Maná del Día: Devocional'
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: ¡Ahora disponible en Amazon!
     text: >
       Este libro ha sido cuidadosamente creado con un enfoque especial en todas
