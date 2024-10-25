@@ -157,7 +157,7 @@ sections:
           type: ImageBlock
           altText: ''
           elementId: ''
-          url: <a href="https://www.flaticon.es/iconos-gratis/podcast" title="podcast iconos">Podcast iconos creados por Hilmy Abiyyu A. - Flaticon</a>
+          url: /images/desayuno.png
           styles:
             self:
               borderRadius: x-large
@@ -167,7 +167,7 @@ sections:
           #### **¡Próximamente!**
 
         image:
-          url: /images/icon2.svg
+          url: /images/podcast.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -191,7 +191,7 @@ sections:
           #### **¡Próximamente!**
 
         image:
-          url: /images/icon3.svg
+          url: /images/biblia.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
