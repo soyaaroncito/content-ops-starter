@@ -12,10 +12,11 @@ sections:
           textAlign: center
           fontWeight: 700
     subtitle: ¡Ahora disponible en Amazon!
-    text: >
-      Este libro ha sido cuidadosamente creado con un enfoque especial en todas
-      aquellas personas que desean profundizar su fe y anhelan fortalecer su
-      relación con Dios.
+    text: >+
+      <div style="text-align: center">Este libro ha sido cuidadosamente creado
+      con un enfoque especial en todas aquellas personas que desean profundizar
+      su fe y anhelan fortalecer su relación con Dios.</div>
+
     actions:
       - label: Comprar ahora
         altText: ''
