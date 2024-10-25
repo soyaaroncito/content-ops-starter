@@ -59,6 +59,7 @@ sections:
           - pr-16
       subtitle:
         textAlign: center
+        fontWeight: 500
   - title: Divider
     colors: bg-light-fg-dark
     styles:
