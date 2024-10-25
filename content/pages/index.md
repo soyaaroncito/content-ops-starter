@@ -157,7 +157,7 @@ sections:
           type: ImageBlock
           altText: ''
           elementId: ''
-          url: /images/blacklogo-01.svg
+          url: /images/desayuno.png
           styles:
             self:
               borderRadius: x-large
