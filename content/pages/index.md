@@ -191,7 +191,7 @@ sections:
           #### **¡Próximamente!**
 
         image:
-          url: /images/icon3.svg
+          url: /images/biblia.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
